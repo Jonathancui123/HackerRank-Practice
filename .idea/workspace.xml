@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="222df783-aef8-4377-9d9d-905423a0aa42" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/venv/Counting Valleys.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Counting Valleys.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Repeated String.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,23 +21,23 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="2" />
+          <entry key="py" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="2" />
+          <entry key="Python" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="25" />
-          <entry key="py" value="1138" />
+          <entry key="Python Console" value="127" />
+          <entry key="py" value="1707" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="1163" />
+          <entry key="Python" value="1834" />
         </counts>
       </usages-collector>
     </session>
@@ -55,11 +56,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/venv/Counting Valleys.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="85">
+              <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+              <folding>
+                <marker date="1554817285897" expanded="true" signature="393:394" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/venv/Repeated String.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+              <folding>
+                <marker date="1554819636187" expanded="true" signature="53:58" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -81,6 +97,7 @@
       <list>
         <option value="$PROJECT_DIR$/venv/Sock Merchant.py" />
         <option value="$PROJECT_DIR$/venv/Counting Valleys.py" />
+        <option value="$PROJECT_DIR$/venv/Repeated String.py" />
       </list>
     </option>
   </component>
@@ -193,8 +210,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/Counting Valleys.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="85">
+          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          <folding>
+            <marker date="1554817285897" expanded="true" signature="393:394" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Repeated String.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+          <folding>
+            <marker date="1554819636187" expanded="true" signature="53:58" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
