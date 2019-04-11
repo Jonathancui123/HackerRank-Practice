@@ -12,3 +12,8 @@ def sockMerchant(n, ar):
     for style in sockDic:
         pairs += (sockDic[style] // 2)
     return pairs
+
+n = 11
+ar = [20]*11
+
+print(sockMerchant(n, ar))
