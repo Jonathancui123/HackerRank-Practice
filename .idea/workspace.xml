@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="222df783-aef8-4377-9d9d-905423a0aa42" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/venv/Alternating Characters.py" afterDir="false" />
-    </list>
+    <list default="true" id="222df783-aef8-4377-9d9d-905423a0aa42" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,11 +81,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/venv/Alternating Characters.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="5" selection-end-column="16" />
-              <folding>
-                <marker date="1555127922698" expanded="true" signature="29:34" ph="..." />
-              </folding>
+            <state relative-caret-position="85">
+              <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -413,11 +408,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/Alternating Characters.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="5" selection-end-column="16" />
-          <folding>
-            <marker date="1555127922698" expanded="true" signature="29:34" ph="..." />
-          </folding>
+        <state relative-caret-position="85">
+          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
         </state>
       </provider>
     </entry>
